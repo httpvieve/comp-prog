@@ -7,6 +7,4 @@ def same_case(a,b):
                 return 0
         else: 
                 return -1
-
-print(char_def)
 print(same_case(input(),input()))                
