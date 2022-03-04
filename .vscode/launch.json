@@ -9,9 +9,9 @@
         ""
       ],
       "stopAtEntry": false,
-      "cwd": "c:/Users/Vieve/Documents/GitHub/comp-prog/code-wars",
+      "cwd": "c:/Users/Vieve/Documents/GitHub/comp-prog",
       "environment": [],
-      "program": "c:/Users/Vieve/Documents/GitHub/comp-prog/code-wars/build/Debug/outDebug",
+      "program": "c:/Users/Vieve/Documents/GitHub/comp-prog/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "C:/msys64/mingw64/bin/gdb.exe",
